@@ -28,7 +28,8 @@ In this case study, you will:
 - **Final Model Selection:** Select the best-performing model based on key metrics.
 
 *Get ready for an exciting dive into predictive analytics!*  
-![Data Science GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+[![Predictive Analytics](https://cdn.iconscout.com/icon/free/png-256/predictive-analytics-4421288-3673184.png)](https://iconscout.com/lottie-animations/predictive-analytics)  
+*Predictive Analytics by [Smashing Stocks](https://iconscout.com/contributors/smashingstocks) on [IconScout](https://iconscout.com)*
 
 ---
 
